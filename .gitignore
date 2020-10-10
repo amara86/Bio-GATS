@@ -1,0 +1,15 @@
+.idea/
+__pycache__/
+.~lock*
+~$*.docx
+~$*.pptx
+~$*.xlsx
+full_alignment.txt
+report_active.csv
+report_inactive.csv
+report_intermediate.csv
+result-summary.docx
+ssd_comparison.csv
+target_seq.fasta
+template_seq.fasta
+tm_wise_alignment.txt
